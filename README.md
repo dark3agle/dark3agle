@@ -1,7 +1,7 @@
 # Hello World
 
 Hey there ✌️
-I'm Tejbir Singh, 
+I'm Tejbir Singh
 -- an international student by Status,
 -- an IT/Cyber Security Student and Enthusiast by Profession
 -- an amateur cook by Choice.
