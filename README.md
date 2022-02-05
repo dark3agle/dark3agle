@@ -8,5 +8,5 @@ I'm Tejbir Singh<br />
 
 ## Check out my stuff
 
-Portfolio  - https://www.theturbanguy.site
+Portfolio  - https://www.theturbanguy.site<br />
 Blog - https://www.blog.theturbanguy.site
